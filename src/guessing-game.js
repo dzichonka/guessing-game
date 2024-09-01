@@ -16,7 +16,6 @@ class GuessingGame {
     }
 
     lower() {
-        // Сужаем диапазон сверху
         this.max = this.currentGuess;
     }
 
